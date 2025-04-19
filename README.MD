@@ -6,6 +6,7 @@ Welcome to the **Algorithms** repository! This repository contains a collection 
 
 - [Introduction](#introduction)
 - [Algorithms](#algorithms)
+- [Project structure](#project-structure)
 - [License](#license)
 
 ## Introduction
@@ -19,6 +20,14 @@ The repository includes the following algorithms and data structures:
 _WIP_
 
 Refer to the respective folders for detailed explanations and code.
+
+## Project structure
+```
+algorithms/
+│
+├── data_structures/
+│   ├── 
+```
 
 ## License
 
