@@ -1,6 +1,6 @@
 # Algoritmos
 
-Bem-vindo ao repositório de **Algoritmos**! Este repositório contém uma coleção de algoritmos e estruturas de dados implementados em várias linguagens de programação (principalmente C++) que venho estudando para programação competitiva e outros fins. Ele serve como um "cheat sheet" para competições.
+Bem-vindo ao repositório de **Algoritmos**! Este repositório contém uma coleção de algoritmos e estruturas de dados implementados em várias linguagens de programação (principalmente C++) que venho estudando para programação competitiva e outros fins. Ele serve como uma colinha para competições.
 
 ## Sumário
 
