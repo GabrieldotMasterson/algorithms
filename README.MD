@@ -21,7 +21,7 @@ _Em desenvolvimento_
 Consulte as respectivas pastas para explicações detalhadas e código.
 ## Estruturas de Dados
 
-- [**Containers**](data_structures/containers)
+- **Containers**
     - [queue](data_structures\queue.cpp)
     - [stack](data_structures\stack.cpp)
     - **Grafos**
