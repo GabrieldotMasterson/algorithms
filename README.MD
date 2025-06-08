@@ -1,34 +1,55 @@
-# Algorithms
+# Algoritmos
 
-Welcome to the **Algorithms** repository! This repository contains a collection of algorithms and data structures implemented in various programming languages (mainly C++) that I have been studying for competitive programming and more. It serves as a "cheat sheet" for competitions.
+Bem-vindo ao repositório de **Algoritmos**! Este repositório contém uma coleção de algoritmos e estruturas de dados implementados em várias linguagens de programação (principalmente C++) que venho estudando para programação competitiva e outros fins. Ele serve como um "cheat sheet" para competições.
 
-## Table of Contents
+## Sumário
 
-- [Introduction](#introduction)
-- [Algorithms](#algorithms)
-- [Project structure](#project-structure)
-- [License](#license)
+- [Introdução](#introdução)
+- [Algoritmos](#algoritmos)
+- [Estruturas de dados](#estrutura-de-dados)
 
-## Introduction
+## Introdução
 
-This repository serves as a resource for learning, practicing, and implementing algorithms. Each algorithm is documented with its purpose, implementation, and example usage.
+Este repositório serve como um recurso para aprender, praticar e implementar algoritmos. Cada algoritmo é documentado com seu propósito, implementação e exemplo de uso.
 
-## Algorithms
+## Algoritmos
 
-The repository includes the following algorithms and data structures:
+O repositório inclui os seguintes algoritmos e estruturas de dados:
 
-_WIP_
+_Em desenvolvimento_
 
-Refer to the respective folders for detailed explanations and code.
+Consulte as respectivas pastas para explicações detalhadas e código.
+## Estruturas de Dados
 
-## Project structure
-```
-algorithms/
-│
-├── data_structures/
-│   ├── 
-```
+- [**Containers**](data_structures/containers)
+    - [queue](data_structures\queue.cpp)
+    - [stack](data_structures\stack.cpp)
+    - **Grafos**
+        1. [Representações: matriz de adjacência, lista de adjacência.](data_structures\graph\representing.cpp)
+        2. [Conversões entre representações.](data_structures\graph\conversoes.cpp)
+        3. **Busca em Grafos**
+            - [DFS (Busca em profundidade)](data_structures\graph\dfs.cpp)
+            - [BFS (Busca em largura).]
+            - Aplicações básicas: contagem de componentes conexas, verificação de bipartição, detecção de ciclos.
+        4. **Grafos Ponderados**
+            - Algoritmos de caminhos mínimos:
+                - Dijkstra (com e sem heap)
+                - Bellman-Ford
+                - Floyd-Warshall
+            - Árvores geradoras mínimas:
+                - Kruskal
+                - Prim
+        5. **Grafos Dirigidos**
+            - Ordenação topológica
+            - Componentes fortemente conexas (Kosaraju ou Tarjan)
+            - Detecção de ciclos em grafos dirigidos
+        6. **Problemas Clássicos e Avançados**
+            - Ponte e ponto de articulação
+            - Lowest Common Ancestor (LCA)
+            - Árvores com técnicas como Binary Lifting
+            - Fluxo máximo (Ford-Fulkerson, Edmonds-Karp)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and copy this repository.
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar e copiar este repositório.

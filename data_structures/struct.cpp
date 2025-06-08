@@ -11,8 +11,7 @@
 
 using namespace std;
 
-struct Book
-{
+struct Book {
     char title[50]; 
     char author[50]; 
     int pages;
